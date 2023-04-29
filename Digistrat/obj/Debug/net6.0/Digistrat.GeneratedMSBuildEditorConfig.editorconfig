@@ -1,0 +1,189 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Digistrat
+build_property.RootNamespace = Digistrat
+build_property.ProjectDir = D:\BI Project\Project Digistrat\Digistrat\Digistrat\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BI Project\Project Digistrat\Digistrat\Digistrat
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/AddClients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CreateTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlVGFza1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/construction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcY29uc3RydWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcZXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcZXJyb3I1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/forgotpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcZm9yZ290cGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/lockscreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcbG9ja3NjcmVlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/CustomPages/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tUGFnZXNccmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/EditProject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdFByb2plY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/EditTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdFRhc2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/ProjectDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/ProjectNew/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdE5ld1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/ProjectsList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNMaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/-selector-model.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcLXNlbGVjdG9yLW1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/landing/_app-header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcbGFuZGluZ1xfYXBwLWhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/landing/_app-header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcbGFuZGluZ1xfYXBwLWhlYWRlcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/landing/_app-sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcbGFuZGluZ1xfYXBwLXNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/landing/_app-sidebar1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcbGFuZGluZ1xfYXBwLXNpZGViYXIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/landing/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcbGFuZGluZ1xfc3dpdGNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_app-header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX2FwcC1oZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_app-headericon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX2FwcC1oZWFkZXJpY29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_app-sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX2FwcC1zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_footercustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX2Zvb3RlcmN1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX3N3aXRjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/layouts/_switchercustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dHNcX3N3aXRjaGVyY3VzdG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_Layout3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_Layoutlandingpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRsYW5kaW5ncGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/TaskList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BI Project/Project Digistrat/Digistrat/Digistrat/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-buj21ic325
