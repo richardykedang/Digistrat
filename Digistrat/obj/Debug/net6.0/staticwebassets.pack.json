@@ -14817,6 +14817,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\loader.svg"
     },
     {
+      "Id": "C:\\Users\\chels\\Desktop\\Digistrat\\Digistrat\\wwwroot\\assets\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\1.jpg"
+    },
+    {
       "Id": "C:\\Users\\chels\\Desktop\\Digistrat\\Digistrat\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
