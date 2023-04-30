@@ -21,7 +21,6 @@
 		<!--- FONT-ICONS CSS -->
 		<link href="~/assets/css/icons.css" rel="stylesheet" asp-append-version="true"/>
 
-
 	</head>
 	<body class="app sidebar-mini ltr">
 		
@@ -62,7 +61,7 @@
 			<partial name="~/Views/Shared/layouts/_footer.cshtml" />
          
 		</div>
-		
+
 			<!-- BACK-TO-TOP -->
 			<a href="#top" id="back-to-top"><i class="fa fa-long-arrow-up"></i></a>
 
@@ -80,6 +79,12 @@
 			<script src="~/assets/plugins/p-scroll/perfect-scrollbar.js"></script>
 			<script src="~/assets/plugins/p-scroll/pscroll.js"></script>
 
+
+			<!-- INTERNAL DATA-TABLES JS-->
+			<script src="~/assets/plugins/datatable/js/jquery.dataTables.min.js"></script>
+			<script src="~/assets/plugins/datatable/js/dataTables.bootstrap5.js"></script>
+			<script src="~/assets/plugins/datatable/dataTables.responsive.min.js"></script>
+
 			@* @RenderSection("Scripts",false/*required*/) *@
             @await RenderSectionAsync("Scripts", required: false)
 
@@ -88,12 +93,6 @@
 			
 			<!-- CUSTOM JS -->
 			<script src="~/assets/js/custom.js"></script>
-
-
-			<!-- INTERNAL DATA-TABLES JS-->
-			<script src="~/assets/plugins/datatable/js/jquery.dataTables.min.js"></script>
-			<script src="~/assets/plugins/datatable/js/dataTables.bootstrap5.js"></script>
-			<script src="~/assets/plugins/datatable/dataTables.responsive.min.js"></script>
 
 	 </body>
 </html>
