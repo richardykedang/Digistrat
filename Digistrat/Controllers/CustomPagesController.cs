@@ -11,7 +11,6 @@ namespace Digistrat.Controllers
 			_logger = logger;
 		}
 
-		//Test richard
 		[Route("/error404")]
 		public IActionResult error404()
 		{
