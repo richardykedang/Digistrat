@@ -3,14 +3,6 @@
 				<div class="sticky">
 					<div class="app-sidebar__overlay" data-bs-toggle="sidebar"></div>
 					<div class="app-sidebar">
-						<div class="side-header">
-							<a class="header-brand1" asp-controller="Home" asp-action="Index">
-								@*<img src="~/assets/images/brand/logo.png" class="header-brand-img desktop-logo" alt="logo">
-								<img src="~/assets/images/brand/logo-1.png" class="header-brand-img toggle-logo" alt="logo">
-								<img src="~/assets/images/brand/logo-2.png" class="header-brand-img light-logo" alt="logo">*@
-								@*<img src="~/assets/images/brand/logo-3.png" class="header-brand-img light-logo1" alt="logo">*@
-							</a><!-- LOGO -->
-						</div>
 						<div class="main-sidemenu">
 							<div class="slide-left disabled" id="slide-left"><svg xmlns="http://www.w3.org/2000/svg"
 									fill="#7b8191" width="24" height="24" viewBox="0 0 24 24">
@@ -42,29 +34,15 @@
 											<ul class="sub-slide-menu">
 												<li><a class="sub-slide-item" asp-controller="Projects" asp-action="Index">Projects</a></li>
 												<li><a class="sub-slide-item" asp-controller="ProjectsList" asp-action="Index">Projects List</a></li>
-												<li><a class="sub-slide-item" asp-controller="ProjectDetails" asp-action="Index">Project Details</a></li>
 												<li><a class="sub-slide-item" asp-controller="ProjectNew" asp-action="Index">Project New</a></li>
-												<li><a class="sub-slide-item" asp-controller="EditProject" asp-action="Index">Edit Project</a></li>
 											</ul>
 										</li>
-										<li><a asp-controller="Tickets" asp-action="Index" class="slide-item"><span class="side-menu__label">Tickets</span></a></li>
 										<li class="sub-slide">
 											<a class="sub-side-menu__item" data-bs-toggle="sub-slide" href="#"><span
 													class="sub-side-menu__label">Tasks</span><i
 													class="sub-angle fa fa-angle-right"></i></a>
 											<ul class="sub-slide-menu">
 												<li><a class="sub-slide-item" asp-controller="TaskList" asp-action="Index">Task List</a></li>
-												<li><a class="sub-slide-item" asp-controller="EditTask" asp-action="Index">Edit Task</a></li>
-												<li><a class="sub-slide-item" asp-controller="CreateTask" asp-action="Index">Create Task</a></li>
-											</ul>
-										</li>
-										<li class="sub-slide">
-											<a class="sub-side-menu__item" data-bs-toggle="sub-slide" href="#"><span
-													class="sub-side-menu__label">Clients</span><i
-													class="sub-angle fa fa-angle-right"></i></a>
-											<ul class="sub-slide-menu">
-												<li><a class="sub-slide-item" asp-controller="Clients" asp-action="Index">Clients</a></li>
-												<li><a class="sub-slide-item" asp-controller="AddClients" asp-action="Index">Add Client</a></li>
 											</ul>
 										</li>
 									</ul>
@@ -86,10 +64,6 @@
 													class="sub-angle fa fa-angle-right"></i></a>
 											<ul class="sub-slide-menu">
 												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="login">Sign In</a></li>
-												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="register">Sign Up</a></li>
-												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="forgotpassword">Forgot Password</a></li>
-												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="lockscreen">Lockscreen</a></li>
-												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="construction">UnderConstruction</a></li>
 											</ul>
 										</li>
 										<li class="sub-slide">
@@ -97,7 +71,8 @@
 													class="sub-side-menu__label">Error Pages</span><i
 													class="sub-angle fa fa-angle-right"></i></a>
 											<ul class="sub-slide-menu">
-												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="error404">404 Error</a></li>
+								<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="construction">UnderConstruction</a></li>
+								<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="error404">404 Error</a></li>
 												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="error500">500 Error</a></li>
 												<li><a class="sub-slide-item" asp-controller="CustomPages" asp-action="error501">501 Error</a></li>
 											</ul>

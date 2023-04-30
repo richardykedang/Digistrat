@@ -29,3 +29,34 @@ D:\BI Project\Project Digistrat\Digistrat\Digistrat\obj\Debug\net6.0\refint\Digi
 D:\BI Project\Project Digistrat\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.pdb
 D:\BI Project\Project Digistrat\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.genruntimeconfig.cache
 D:\BI Project\Project Digistrat\Digistrat\Digistrat\obj\Debug\net6.0\ref\Digistrat.dll
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\appsettings.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.staticwebassets.runtime.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.exe
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.deps.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.runtimeconfig.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.dll
+C:\Users\chels\Desktop\Digistrat\Digistrat\bin\Debug\net6.0\Digistrat.pdb
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.csproj.AssemblyReference.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.AssemblyInfoInputs.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.AssemblyInfo.cs
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.csproj.CoreCompileInputs.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.RazorAssemblyInfo.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.RazorAssemblyInfo.cs
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets\msbuild.Digistrat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets\msbuild.build.Digistrat.props
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Digistrat.props
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Digistrat.props
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\scopedcss\bundle\Digistrat.styles.css
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\scopedcss\projectbundle\Digistrat.bundle.scp.css
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.dll
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\refint\Digistrat.dll
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.pdb
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\Digistrat.genruntimeconfig.cache
+C:\Users\chels\Desktop\Digistrat\Digistrat\obj\Debug\net6.0\ref\Digistrat.dll

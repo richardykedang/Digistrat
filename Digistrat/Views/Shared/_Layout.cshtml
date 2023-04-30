@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		@* <title>@ViewData["Title"]  Noa</title> *@
 		
 		<!-- FAVICON -->
 		<link rel="shortcut icon" type="image/x-icon" href="~/assets/images/brand/favicon.ico" />
 
 		<!-- TITLE -->
-		<title>Digistrat</title>
+		<title>@ViewBag.Title</title>
 
 		<!-- BOOTSTRAP CSS -->
 		<link id="style" href="~/assets/plugins/bootstrap/css/bootstrap.min.css" asp-append-version="true" rel="stylesheet" />
@@ -50,14 +50,15 @@
 
 						<!-- CONTAINER -->
 						<div class="main-container container-fluid">  
+							<div style="margin-top:150px;">
 							@RenderBody()
+						</div>
 					    </div>
 					</div>
 				</div>
 				<!-- CONTAINER END -->
 			</div>
 
-			<partial name="~/Views/Shared/layouts/-selector-model.cshtml" />
 			<partial name="~/Views/Shared/layouts/_footer.cshtml" />
          
 		</div>
@@ -79,9 +80,6 @@
 			<script src="~/assets/plugins/p-scroll/perfect-scrollbar.js"></script>
 			<script src="~/assets/plugins/p-scroll/pscroll.js"></script>
 
-			<!-- STICKY JS -->
-			<script src="~/assets/js/sticky.js"></script>
-
 			@* @RenderSection("Scripts",false/*required*/) *@
             @await RenderSectionAsync("Scripts", required: false)
 
@@ -91,6 +89,5 @@
 			<!-- CUSTOM JS -->
 			<script src="~/assets/js/custom.js"></script>
 
-			
 	 </body>
 </html>

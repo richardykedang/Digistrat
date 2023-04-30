@@ -13,6 +13,20 @@ namespace Digistrat.Controllers
 		[Route("/tasks-list")]
 		public IActionResult Index()
 		{
+			ViewBag.Title = "Task List";
+			return View();
+		}
+		[Route("/tasks-create")]
+		public IActionResult Add()
+		{
+			ViewBag.Title = "Add Task";
+			return View();
+		}
+
+		[Route("/tasks-edit")]
+		public IActionResult Edit()
+		{
+			ViewBag.Title = "Edit Task";
 			return View();
 		}
 	}

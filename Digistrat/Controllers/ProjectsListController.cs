@@ -14,6 +14,7 @@ namespace Digistrat.Controllers
 		[Route("/projects-list")]
 		public IActionResult Index()
 		{
+			ViewBag.Title = "List Project";
 			return View();
 		}
 	}

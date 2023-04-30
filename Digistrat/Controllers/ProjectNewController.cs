@@ -14,6 +14,7 @@ namespace Digistrat.Controllers
 		[Route("/projects-new")]
 		public IActionResult Index()
 		{
+			ViewBag.Title = "Add Project";
 			return View();
 		}
 	}

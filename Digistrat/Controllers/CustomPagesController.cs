@@ -35,12 +35,6 @@ namespace Digistrat.Controllers
 			return View("forgotpassword", "_Layout1");
 		}
 
-		[Route("/lockscreen")]
-		public IActionResult lockscreen()
-		{
-			return View("lockscreen", "_Layout1");
-		}
-
 		[Route("/construction")]
 		public IActionResult construction()
 		{
@@ -51,12 +45,6 @@ namespace Digistrat.Controllers
 		public IActionResult login()
 		{
 			return View("login", "_Layout1");
-		}
-
-		[Route("/rigister")]
-		public IActionResult register()
-		{
-			return View("register", "_Layout1");
 		}
 
 	}
